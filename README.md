@@ -1,8 +1,12 @@
 # Digital-Literacy-Project
 ➢ Digital Literacy Portfolio (CSE0001)
+
 ➢ Name: Aditya Agrawal
+
 ➢ Registration Number: 25BAI11428
+
 ➢ Branch: B.Tech CSE (AI/ML)
+
 ➢ Role: Student Digital Ambassador
 
 Project Overview:
